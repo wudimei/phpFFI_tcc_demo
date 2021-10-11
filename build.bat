@@ -1,0 +1,1 @@
+tcc -shared -rdynamic use_money.c

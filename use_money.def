@@ -1,0 +1,9 @@
+LIBRARY use_money.dll
+
+EXPORTS
+DllMain
+_dllstart
+_edata
+_etext
+say_hello
+use_money
